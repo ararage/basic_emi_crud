@@ -1,0 +1,29 @@
+[
+    {
+      "fields": {
+        "name": "Infanteria",
+        "create_date": "2020-08-14T00:00:00+00:00",
+        "update_date": "2020-08-14T00:00:00+00:00"
+      },
+      "pk": 0,
+      "model": "carrers.Carrer"
+    },
+    {
+        "fields": {
+          "name": "Caballería",
+          "create_date": "2020-08-14T00:00:00+00:00",
+          "update_date": "2020-08-14T00:00:00+00:00"
+        },
+        "pk": 1,
+        "model": "carrers.Carrer"
+    },
+    {
+        "fields": {
+          "name": "Artillería",
+          "create_date": "2020-08-14T00:00:00+00:00",
+          "update_date": "2020-08-14T00:00:00+00:00"
+        },
+        "pk": 2,
+        "model": "carrers.Carrer"
+    }
+  ]
